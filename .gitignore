@@ -1,0 +1,8 @@
+# Ignore configuration files that may contain sensitive information.
+sites/*/settings*.php
+.htpasswd
+
+# Ignore paths that contain user-generated content.
+# Scratch that. We actually want to keep these files with the app.
+# sites/*/files
+# sites/*/private
