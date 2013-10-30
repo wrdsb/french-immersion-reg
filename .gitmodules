@@ -1,0 +1,3 @@
+[submodule "sites/all/themes/wrdsb"]
+	path = sites/all/themes/wrdsb
+	url = git@github.com:wrdsb/theme-drupal.git
